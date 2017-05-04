@@ -5,7 +5,7 @@ int main()
     unsigned long long factorial = 1;
 
     printf("Enter an integer: ");
-    scanf("%d",&n);
+   // scanf("%d",&n);
 
     // show error if the user enters a negative integer
     if (n < 0)
